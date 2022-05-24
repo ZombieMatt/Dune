@@ -4,17 +4,18 @@ New music for dune game
 **Tracks**
 
 
-923703758 game main menu music - dune prolog
+923703758 - game main menu music - dune prolog
 
 
-230751045 fremen backgound - holy war
+230751045 - fremen new game - holy war
 
-442438239 harknoneen new game - House Harkonnen (Giedi Prime)
+442438239 - harknoneen new game - House Harkonnen (Giedi Prime)
 
-516656632 atradis background - herald of the change
+516656632 - atradis new game - herald of the change
 
-908461832 smuggler new game - the box
+908461832 - smuggler new game - the box
 
+**All other music plays randomly though some songs seem to play more often for specific factions.**
 
 1070917107 - take my hand
 
