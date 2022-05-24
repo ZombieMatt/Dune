@@ -56,7 +56,7 @@ New music for dune game
 
 Back up your Audio folder if you want to undo changes.
 
-Simply paste .When files into \steamapps\common\D4X\res\Audio
+Simply paste .wem files into \steamapps\common\D4X\res\Audio
 
 Overwrite files. 
 
